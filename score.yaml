@@ -13,4 +13,4 @@ resources:
   dns: # We need a DNS record to point to the service 
     type: dns
   mybucket:
-    type: s3
+    tpe: s3
